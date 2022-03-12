@@ -1,5 +1,11 @@
 # javaclasses
-1
+Compile: javac -d classes GameEngine/*.java Vehicles/*.java DecisionMaking/*.java Map/*.java Graphics/*.java Player/*.java
+Run:
+1.copy map.txt into generated compiled folder classes in package Map if doesn't exist. 
+2.navigate: cd classes
+3.run: java GameEngine.Main
+
+
 COSC 3P91 – Assignment 2 
 ELYA DENYSOVA, Brock University, Canada
 ACM Reference Format:
