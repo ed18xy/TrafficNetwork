@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<map>
+   <roadSegment id="roadSegment1">
+      <from>A</from>
+      <to>B</to>
+      <direction>E</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment2">
+      <from>B</from>
+      <to>A</to>
+      <direction>W</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment3">
+      <from>B</from>
+      <to>C</to>
+      <direction>E</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment4">
+      <from>B</from>
+      <to>F</to>
+      <direction>S</direction>
+      <lanes>1</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment5">
+      <from>C</from>
+      <to>B</to>
+      <direction>W</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment6">
+      <from>C</from>
+      <to>D</to>
+      <direction>E</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment7">
+      <from>C</from>
+      <to>H</to>
+      <direction>N</direction>
+      <lanes>1</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment8">
+      <from>D</from>
+      <to>C</to>
+      <direction>W</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment9">
+      <from>D</from>
+      <to>E</to>
+      <direction>E</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment10">
+      <from>D</from>
+      <to>G</to>
+      <direction>S</direction>
+      <lanes>2</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment11">
+      <from>D</from>
+      <to>I</to>
+      <direction>N</direction>
+      <lanes>1</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment12">
+      <from>E</from>
+      <to>D</to>
+      <direction>W</direction>
+      <lanes>3</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment13">
+      <from>F</from>
+      <to>B</to>
+      <direction>N</direction>
+      <lanes>1</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment14">
+      <from>G</from>
+      <to>D</to>
+      <direction>N</direction>
+      <lanes>2</lanes>
+   </roadSegment>
+   <roadSegment id="roadSegment15">
+      <from>I</from>
+      <to>D</to>
+      <direction>S</direction>
+      <lanes>2</lanes>
+   </roadSegment>
+</map>
